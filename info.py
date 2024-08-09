@@ -102,7 +102,7 @@ VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'vipurl.in')
 VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '5a46477839bb186f9d168d34295a0db50eae2f05')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'ziplinker.net')
-VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'd6625b1e5542144270109cb5f4d6796dbccf205d)
+VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'd6625b1e5542144270109cb5f4d6796dbccf205d')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Verify_By_Token/4')
 
 # Shortlink Info
